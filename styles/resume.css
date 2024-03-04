@@ -14,11 +14,15 @@ h1, h2 {
 ul {
     margin-top: 0;
     padding-left: 20px;
+    text-align: center;
+    font-weight: bold;
 }
 li {
     margin-bottom: 5px;
+    text-align: center;
+    font-weight: bold;
 }
-.table {
+table {
     width: 100%;
     border-collapse: collapse;
 }
@@ -26,9 +30,13 @@ th, td {
     border: 1px solid #dddddd;
     padding: 8px;
     text-align: left;
+    text-align: center;
+    font-weight: bold;
 }
 th {
     background-color: #f2f2f2;
+    text-align: center;
+    font-weight: bold;
 }
 header {
     text-align: center;
